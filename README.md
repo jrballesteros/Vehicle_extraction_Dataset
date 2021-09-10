@@ -1,3 +1,3 @@
-# Car_extraction_and_Counting
+# Car_extraction_and_counting
 
 This repository contains the code and document of a paper to be submitted in which cars and motorcycles are extracted and counted directly from drone orthomosaics.
